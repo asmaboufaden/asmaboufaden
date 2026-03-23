@@ -17,8 +17,8 @@ Welcome to my GitHub profile!
 ---
 
 ## 📂 Portfolio Structure
-- 📂🎓 [Professional Certifications](./Professional-Certifications)  
-- 📂📊 [Data Science Projects](./Data-Science-Projects)  
+- 📂🎓 [Professional Certifications](https://github.com/asmaboufaden/Professional-Certifications)  
+- 📂📊 [Data Science Projects](https://github.com/asmaboufaden/Data-Science-Projects)  
   - 📂 IBM Notebooks  
   - 📂 Machine Learning Specialization  
   - 📂 Power BI  
