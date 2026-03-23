@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 ## 🚀 Current Goals
 - Launching my freelance career in Data Science  
 - Building a professional portfolio for recruiter/client appeal  
-- Advancing expertise in Power BI and machine learning  
+- Advancing expertise in machine learning and Agentic IA in Data Science
 
 ---
 
