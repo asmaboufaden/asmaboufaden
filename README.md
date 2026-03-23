@@ -7,11 +7,11 @@ Welcome to my GitHub profile!
 ---
 
 ## 🌟 About Me
-👩‍💻 Aspiring freelance Data Scientist with a foundation in bioinformatics and extensive experience in project management, clinical research, and advisory roles.
-📊 Skilled in analyzing complex datasets and applying data‑driven approaches to support strategic decisions.
-🎓 Currently enhancing expertise through certifications in IBM Data Science, Machine Learning, and Data Visualization.
-💡 Certified HeartMath® Mentor in Resilience, combining analytical rigor with human‑centered skills to deliver impactful solutions.
-🌍 Recognized for adaptability and delivering results across diverse, multicultural environments.
+- 👩‍💻 Aspiring freelance Data Scientist with a foundation in bioinformatics and extensive experience in project management, clinical research, and advisory roles.
+- 📊 Skilled in analyzing complex datasets and applying data‑driven approaches to support strategic decisions.
+- 🎓 Currently enhancing expertise through certifications in IBM Data Science, Machine Learning, and Microsoft Data Visualization.
+- 💡 Certified HeartMath® Mentor in Resilience, combining analytical rigor with human‑centered skills to deliver impactful solutions.
+- 🌍 Recognized for adaptability and delivering results across diverse, multicultural environments.
 
 
 ---
