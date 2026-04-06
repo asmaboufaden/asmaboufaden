@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 Welcome to my GitHub profile!  
-**Aspiring Freelance Data Scientist, Bioinformatics Background, HeartMath® Certified Mentor in Resilience**
+**Senior Consultant | Programme Management · M&E · Governance | HeartMath® Certified Mentor in Resilience**
  
 
 ---
 
 ## 🌟 About Me
-- 👩‍💻 Aspiring freelance Data Scientist with a foundation in bioinformatics and extensive experience in project management, clinical research, and advisory roles.
+- 👩‍💻 Aspiring freelance Data Scientist with a foundation in bioinformatics and extensive experience in Programme Management · M&E · Governance, and advisory roles.
 - 📊 Skilled in analyzing complex datasets and applying data‑driven approaches to support strategic decisions.
 - 🎓 Currently enhancing expertise through certifications in IBM Data Science, Machine Learning, and Microsoft Data Visualization.
 - 💡 Certified HeartMath® Mentor in Resilience, combining analytical rigor with human‑centered skills to deliver impactful solutions.
@@ -27,7 +27,6 @@ Welcome to my GitHub profile!
 ---
 
 ## 🚀 Current Goals
-- Launching my freelance career in Data Science  
 - Building a professional portfolio for recruiter/client appeal  
 - Advancing expertise in machine learning and Agentic IA in Data Science
 
