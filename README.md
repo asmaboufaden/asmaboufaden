@@ -7,7 +7,7 @@
 ---
 ## 🌟 About Me
 
-- 👩‍💼 Senior Consultant with 12+ years of proven impact in programme management, governance, and monitoring & evaluation within Tunisia's highest-level government institutions — including the **Presidency of the Republic** and the **Ministry of Health**.
+- 👩‍💼 Senior Consultant with 12+ years of experience spanning programme management, governance, and monitoring & evaluation within Tunisia's highest-level government institutions — including the **Presidency of the Republic** and the **Ministry of Health**.
 - 📊 Currently building Data Science expertise — **IBM Data Science · Machine Learning (DeepLearning.AI/Stanford Online) · Microsoft Power BI** — all certified 2026 — to integrate data-driven approaches into governance and development programmes.
 - 💡 **HeartMath® Certified Resilience Mentor** with 100+ hours of evidence-based coaching delivered to individual and corporate clients.
 - 🌍 Fluent in Arabic, French, and professional English.
