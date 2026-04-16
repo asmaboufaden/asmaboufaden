@@ -18,8 +18,8 @@
 
 - 📂🎓 [Professional Certifications](https://github.com/asmaboufaden/Professional-Certifications)
 - 📂📊 [Data Science Projects](https://github.com/asmaboufaden/Data-Science-Projects)
-  - 📂 IBM Notebooks
-  - 📂 Machine Learning Specialization
+  - 📂 IBM-Capstone_Notebooks
+  - 📂 Other_Notebooks
   - 📂 Power BI
 - 📂📈 [Real Case Studies](https://github.com/asmaboufaden/real-case-studies)
 
