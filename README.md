@@ -20,7 +20,6 @@
 - 📂📊 [Data Science Projects](https://github.com/asmaboufaden/Data-Science-Projects)
   - 📂 IBM-Capstone-Notebooks
   - 📂 Other_Notebooks
-  - 📂 Power BI
 - 📂📈 [Real Case Studies](https://github.com/asmaboufaden/real-case-studies)
 
 ---
